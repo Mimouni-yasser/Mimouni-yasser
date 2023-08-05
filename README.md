@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yasser mimouni
 - 👀 I’m interested in electronics, embedded systems, software developement, automation and automatic systems.
-- 🌱 I’m currently learning to impliment websockets in nodejs to send data from an esp32 to mongodb database
+- 🌱 Im currently doing whatever I interesting, from highest level of software to the lowest level of hardware
 
 
 
