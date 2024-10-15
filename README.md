@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yasser mimouni
 - 👀 I’m interested in electronics, embedded systems, software developement, automation and automatic systems.
-- 🌱 Im currently doing whatever I interesting, from highest level of software to the lowest level of hardware
-
+- 🌱 Im currently doing whatever I find interesting, from highest level of software to the lowest level of hardware
+- 📕 embedded systems engineer graduate (2023/2024) and master's student in industrial sciences (2024/2025)
 
 
 <!---
